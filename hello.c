@@ -8,5 +8,7 @@ int main(void) {
 
 printf("Landon Burk\n");
 
+printf("Electrical Engineering\n");
+
 return 0;
 }
