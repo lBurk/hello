@@ -11,7 +11,7 @@ printf("Landon Burk\n");
 printf("Electrical Engineering\n");
 
 printf("Darren Leibhart");
-printf("Electrical Engineering\n", );
+printf("Electrical Engineering\n");
 
 return 0;
 }
